@@ -34,3 +34,4 @@ This is my personal website project.
 9. run `thin start` for development environment and run `./servicectl start` for production environment.
 
 ## MIT License
+test add commit
